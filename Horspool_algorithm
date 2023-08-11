@@ -51,8 +51,8 @@ void search( string txt, string pat)
 /* Driver code */
 int main()
 {
-	string txt= "ABAAABCD";
-	string pat = "ABC";
+	string txt= "SHE_SELLS_SEA_SHELLS";
+	string pat = "SHELLS";
 	search(txt, pat);
 	return 0;
 }
